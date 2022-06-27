@@ -50,3 +50,13 @@
 ### Ensemble Learning
 #### Voting / Averaging
 #### Stacking
+
+### Hypothèses et terminologie
+#### Holdout Validation 
+#### Repeated Hold out method
+#### Booststrap method
+#### Cross-Validation and Hyperparameter Optimization
+##### k-fold cross-validation for model evaluation
+##### Model Selection via k-fold cross validation
+##### 3-Way hold out method for Large Datasets
+#### Normalization of data and cross-validation
