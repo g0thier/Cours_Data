@@ -60,3 +60,18 @@
 ##### Model Selection via k-fold cross validation
 ##### 3-Way hold out method for Large Datasets
 #### Normalization of data and cross-validation
+
+### Times series
+#### Smooting techniques
+##### Averaging(Moyenne)
+##### Single moving average
+##### Exponential Smoothing
+##### Double exponential smoothing
+##### Triple exponential smoothing 
+
+#### Modélisation de séries chronologiques univariées
+##### Stationarity
+##### Bruit blanc
+##### Modèles autorégressifs (AR)
+##### Modèles de moyenne mobile
+##### Box-Jenkins ARIMA
