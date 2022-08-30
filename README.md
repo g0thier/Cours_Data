@@ -62,6 +62,7 @@
 #### Normalization of data and cross-validation
 
 ### Times series
+#### Décomposition
 #### Smooting techniques
 ##### Averaging(Moyenne)
 ##### Single moving average
